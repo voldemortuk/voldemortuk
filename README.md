@@ -36,7 +36,6 @@
 - 🧠 **Agentic Pre-Sales System** — knowledge graph over 1,000+ files, turns RFP → full proposal in <1 hour
 - 📄 **DOCX (IDP Platform)** — OCR, PII redaction, GenAI summarization, document chatbot for regulated industries
 - 🤖 **Sales Intelligence Platform (SIP)** — real-time lead scoring, intent qualification, objection handling
-- 📊 **Resume Analyzer** — AI lead-conversion product, $135K revenue in ~1.5 months
 - 🔁 **Course Recommendation Engine v4** — LangChain + VectorDB (RAG) for personalized learning at scale
 - 🏗️ **Claude Code proposal-to-deck pipeline** — auto-generates client slide decks from proposal documents
 
