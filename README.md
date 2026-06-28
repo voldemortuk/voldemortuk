@@ -1,67 +1,50 @@
 ### Hi there, I'm Utkarsh 👋
 
-## I'm a | Product Guy |  ML Engineer | Project lead @ Pehia | GDSC Lead @DSC-CUSAT 
+## AI Product Manager | MLE → Founder → PM | Building AI that ships to production
 
-- 🌱 I’m an aspiring Computer Science enthusiast well-versed in many aspects of different domains.
-- 👯 I’m looking to collaborate with Machine Learning devs / ML Research Projects .
-- 🥅 2021 Goals: Looking to expand my learning in Product Management and dive deep into Deep learning.
-- I am up for mentoring students and helping them out.
-- I am involved with communities like Developers Students Club, Pehia Foundation , Tinkerhub Foundation, Pie & AI: Kochi and Agora. 
-- I am also a Mentor @ [Mentors Without Borders](https://www.mentorswithoutborders.net).
-- I'm passionate about diversity in tech and open source. 
-- I'm also interested in product  management .
-- ⚡ Fun fact: I love reading blogs and am learning French at the moment.
-            : I also love to travel
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+- 🚀 Currently: AI PM at **InterviewKickstart** — building agentic AI products across B2C and enterprise (B2B)
+- 🏗️ Ex Co-Founder & CPTO at **Renix Informatics** — built DOCX, an Intelligent Document Processing platform for healthcare, insurance & finance
+- 🤖 I build AI systems that survive production: RAG pipelines, agentic workflows, knowledge graphs, LLMOps
+- 📈 Most recent build: an **agentic pre-sales system** on a knowledge graph of 1,000+ files — turns a live RFP into a full proposal in under an hour
+- 🧠 Past: Scaled Scaler Topics 0 → 2M+ MAU | Led InterviewBit (1.5–2M MAU)
+- 💡 What I care about: observability, reliability & trust in AI systems — the unglamorous stuff that makes AI enterprise-ready
+- 🌍 Open to: AI PM roles, agentic AI products, enterprise B2B, 0→1 builds
 
 ---
 
-### 📺 Latest Interests 
+### 🛠️ What I'm building with
 
-<!-- YOUTUBE:START -->
-- Natural Language Processing 
-- Optical character recognition projects 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<!-- YOUTUBE:END -->
-### 📺 Latest Project
+**AI/ML stack:** LangChain · RAG · VectorDB (FAISS, Pinecone) · LLMOps · PyTorch · spaCy · Claude Code
 
-<!-- YOUTUBE:START -->
-- X-ray Abnormality Detection model
-- Language Detection Model 
-<!-- YOUTUBE:END -->
+**Automation & tools:** n8n · Make · Zapier · Lovable · ElevenLabs · OpenAI & Anthropic APIs
+
+**Infra & backend:** FastAPI · Docker · Jenkins · AWS · Azure · SQL · Mixpanel · Datadog
 
 ---
 
-[instagram]: https://www.instagram.com/raj_utkarsh02/
-[linkedin]: https://www.linkedin.com/in/utkarsh-raj-906917171/
-[twitter]: https://twitter.com/UtkarshpyML
+### 🔨 Things I've built
+
+- 🧠 **Agentic Pre-Sales System** — knowledge graph over 1,000+ files, turns RFP → full proposal in <1 hour
+- 📄 **DOCX (IDP Platform)** — OCR, PII redaction, GenAI summarization, document chatbot for regulated industries
+- 🤖 **Sales Intelligence Platform (SIP)** — real-time lead scoring, intent qualification, objection handling
+- 📊 **Resume Analyzer** — AI lead-conversion product, $135K revenue in ~1.5 months
+- 🔁 **Course Recommendation Engine v4** — LangChain + VectorDB (RAG) for personalized learning at scale
+- 🏗️ **Claude Code proposal-to-deck pipeline** — auto-generates client slide decks from proposal documents
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-raj-906917171/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/UtkarshpyML)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/raj_utkarsh02/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:utkarsh02dec@gmail.com)
