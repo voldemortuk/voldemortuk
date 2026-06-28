@@ -1,6 +1,6 @@
 ### Hi there, I'm Utkarsh 👋
 
-## AI Product Manager | MLE → Founder → PM | Building AI that ships to production
+### AI Product Manager | MLE → Founder → PM | Building AI that ships to production
 
 - 🚀 Currently: AI PM at **InterviewKickstart** — building agentic AI products across B2C and enterprise (B2B)
 - 🏗️ Ex Co-Founder & CPTO at **Renix Informatics** — built DOCX, an Intelligent Document Processing platform for healthcare, insurance & finance
